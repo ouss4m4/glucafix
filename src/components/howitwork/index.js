@@ -31,31 +31,42 @@ function HowItWork() {
               into ketosis, This state accelerate the process of fat burning and
               allow you to get the desired weight and body in a moderate period.
               “Advanced GlucaFix” has made it possible by restoring the function
-              of the pancreas and keep losing weight steadily.
+              of the liver and keep losing weight steadily.
             </p>
             <div className="max-w-md mx-auto">
               <FluidImg filename="pack.png" />
             </div>
+
             <p className="mt-4 max-w-2xl text-xl text-gray-700 lg:mx-auto text-justify">
-              ReVision 2.0 can help you. It is a highly effective complex
-              supplement that specifically targets age-related vision issues.
-              All-natural and clinically tested, it has no side effects. In this
-              review, we will go through the ingredients found in this formula.
-              how they work together. and see the benefits and answer all
-              frequently asked question before a product purchase.
+              “Advanced GlucaFix”, which contains only natural ingredients,
+              helps to burn all these unwanted fats with the help of the
+              Japanese secret. GlucaFix supplement is 100% natural and safe; it
+              combines wholly natural and safe ingredients for the healthy
+              functioning of the body.
             </p>
           </div>
           <div className="lg:text-center md:text-center">
-            <h1 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-              How Revision 2.0 work
-            </h1>
+            <h2 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+              How GlucaFix Work
+            </h2>
             <p className="mt-4 max-w-2xl text-xl text-gray-700 lg:mx-auto text-justify">
-              ReVision is a dietary supplement designed to enhance vision and
-              brain health. The approach taken by the team entails delivering a
-              rich source of brain nutrients, antioxidants, vitamins and
-              minerals complex. To better understand how ReVision works, it is
-              only logical to go through the ingredients at hand.
+              GlucaFix is a dietary supplement that works as an advanced weight
+              loss formula in burning all the stored fat in your body. It is a
+              supplement that uses ketosis to burn fat. For this, it uses
+              ketones to form a compound with the carbohydrates stored in the
+              body. It includes such a combination that helps build muscle mass.
             </p>
+            <p className="mt-4 max-w-2xl text-xl text-gray-700 lg:mx-auto text-justify">
+              Enhances muscle growth which makes the body perfectly fit. Then
+              the body is left with fat as the primary fuel that needs to be
+              burned. GlucaFix Supplement gradually improves natural weight loss
+              because the excess fat stored in the body’s cells melts and fuels
+              energy. Ingredients are extracted from top quality natural
+              sources, reducing weight:
+            </p>
+            <div className="max-w-md mx-auto">
+              <FluidImg filename="liver.jpg" />
+            </div>
           </div>
         </div>
       </div>

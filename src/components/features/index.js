@@ -16,11 +16,12 @@ function Features() {
                 id="ingredients"
                 className="mt-2 text-3xl leading-8 font-bold tracking-tight text-gray-900 sm:text-4xl"
               >
-                Revision 2.0 Ingredients
+                GlucaFix Ingredients
               </h2>
             </Link>
             <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-              A Natural way to treat tired eyes
+              "It's a brand new way of helping your liver to release more
+              glucagon..."
             </p>
             {/* <p className="mt-4 max-w-2xl text-xl text-gray-700 lg:mx-auto text-justify">
               ReVision 2.0 brings together a powerful mix of herbs and
@@ -53,14 +54,14 @@ function Features() {
                 </div>
                 <div className="ml-4">
                   <dt className="text-lg leading-6 font-bold text-gray-900 ">
-                    Huperzine-A
+                    BHB Ketones
                   </dt>
                   <dd className="mt-2 text-base text-gray-700 text-justify">
-                    Huperzine- A is one of the most important ReVision 20
-                    ingredients that come from a plant named Huperzia Serrata.
-                    It has been extensively used in Chinese Medicine due to its
-                    properties to breakdown acetylcholine which, in turn, helps
-                    boost learning and memory..
+                    BHB stands for Beta-Hydroxybutyrate, which are ketones
+                    extracted from the raspberry pulp. These ketones form a
+                    natural compound with carbohydrates stored in the body. This
+                    compound helps promote muscle mass and allows the body to
+                    gain muscle.
                   </dd>
                 </div>
               </div>
@@ -86,14 +87,12 @@ function Features() {
                 </div>
                 <div className="ml-4">
                   <dt className="text-lg leading-6 font-bold text-gray-900">
-                    Alpha GPC
+                    Sodium
                   </dt>
                   <dd className="mt-2 text-base text-gray-700 text-justify">
-                    Alpha GPC comes from the crushing of different plants such
-                    as soy. Inside the brain, it focuses on producing more
-                    acetylcholine which can provide users of the ReVision
-                    supplement to enjoy an improved memory and thinking
-                    capacity.
+                    It is an essential mineral for the body and helps maintain
+                    the ionic concentration in the body. It has the attributes
+                    this to the proper use of energy in the body.
                   </dd>
                 </div>
               </div>
@@ -120,14 +119,13 @@ function Features() {
                 </div>
                 <div className="ml-4">
                   <dt className="text-lg leading-6 font-bold text-gray-900">
-                    Phosphatidylserine
+                    Green Tea Extract
                   </dt>
                   <dd className="mt-2 text-base text-gray-700 text-justify">
-                    Among the most complex yet useful ReVision ingredients,
-                    phosphatidylserine supports the health of the brain and
-                    boosts many of its functions, including focus, memory,
-                    concentration, and cognition. It has been particularly used
-                    for patients with Alzheimer’s disease and ADHD.
+                    The extract is one of the best ingredients used; it boosts
+                    metabolism, enhancing the body’s fat-burning capability to
+                    melt off the already existing fat. You will mostly find this
+                    ingredient in a keto diet to initiate the ketosis process..
                   </dd>
                 </div>
               </div>
@@ -154,18 +152,13 @@ function Features() {
                 </div>
                 <div className="ml-4">
                   <dt className="text-lg leading-6 font-bold text-gray-900">
-                    L-Theanine
+                    Caffeine
                   </dt>
                   <dd className="mt-2 text-base text-gray-700 text-justify">
-                    L-theanine is an amino acid that tends to improve alertness
-                    while maintaining a state of calmness in the body. According
-                    to the current evidence, this ingredient can help relieve
-                    anxiety because of its structural similarity to glutamate, a
-                    type of neurotransmitter in the brain that’s often behind
-                    the generation of anxious thoughts. So it competes with
-                    glutamate for its receptors on the brain cells, and in doing
-                    so, blocks out its effects, which improves the mood and
-                    memory.
+                    This is an antioxidant that serves to rid the body of
+                    cholesterol and all types of oxidative toxins. Caffeine
+                    alone won't help you slim down. But it boost weight-loss
+                    efforts and help prevent weight gain,
                   </dd>
                 </div>
               </div>
@@ -192,14 +185,16 @@ function Features() {
                 </div>
                 <div className="ml-4">
                   <dt className="text-lg leading-6 font-bold text-gray-900">
-                    L-Tyrosine
+                    Calcium
                   </dt>
                   <dd className="mt-2 text-base text-gray-700 text-justify">
-                    L-tyrosine is a precursor substance used for the production
-                    of several hormones like adrenaline, norepinephrine, and
-                    dopamine, all of which can boost brain health in one way or
-                    another. Lastly, this amino acid also helps regulate the
-                    natural pigments in the eyes.
+                    Calcium helps to strengthen the bones. That way, you will
+                    feel less pain in the joints since your bones will be strong
+                    enough to efficiently hurdle your body weight. Other
+                    benefits associated with calcium include the improvement of
+                    muscles and healthy nerves. Moreover, it is essential to
+                    note that calcium has no direct impact on weight loss but
+                    works as one of the natural ingredients for the obese.
                   </dd>
                 </div>
               </div>
@@ -225,15 +220,13 @@ function Features() {
                 </div>
                 <div className="ml-4">
                   <dt className="text-lg leading-6 font-bold text-gray-900">
-                    B Complex Vitamins
+                    Magnesium
                   </dt>
                   <dd className="mt-2 text-base text-gray-700 text-justify">
-                    Vitamin B complex has been proven to provide a number of
-                    benefits that collectively improve your body functions
-                    greatly. With these vitamins in your ReVision pills, you can
-                    help your body improve its red blood cell production and
-                    provide other benefits in terms of brain health and the
-                    health of your eyes.
+                    This essential mineral helps your body to perform more than
+                    300 regular functions. You can balance the blood pressure
+                    and blood sugar level, that can prevent depression and
+                    strengthens your heart and joint health..
                   </dd>
                 </div>
               </div>
@@ -241,11 +234,13 @@ function Features() {
           </div>
           <div className="lg:text-center">
             <p className="mt-4 max-w-2xl text-xl text-gray-700 lg:mx-auto text-justify">
-              Now the goal of this formula is to rectify the root cause of poor
-              eye sight, which supposedly has nothing to do with age. but, a
-              “deeply peculiar and dangerous enzyme” is deemed the culprit. this
-              enzyme triggers inflammation, which in turn deteriorates some of
-              the organs that are critical for eyesight.
+              As per the product webpage, Glucafix has been taken by thousands
+              of folks with no reported side effects. Unlike allopathic
+              medications, everything inside Glucafix is reported to be natural.
+              Users might experience some nights where you don’t want to go to
+              sleep when your energy levels soar through the roof! Also people
+              around you might keep asking what you’ve been up to look so
+              good…but we trust those are minor annoyances.
             </p>
           </div>
           <div className="max-w-xl mx-auto">
@@ -268,11 +263,11 @@ function Features() {
                 id="benefits"
                 className="mt-2 text-3xl leading-8 font-bold tracking-tight text-gray-900 sm:text-4xl"
               >
-                Revision 2.0 Benefits
+                GlucaFix Benefits
               </h2>
             </Link>
             <p className="mt-2 text-2xl leading-8 font-bold tracking-tight text-gray-900 sm:text-2xl">
-              What are the benefits that you could expect, by using ReVision?{" "}
+              What are the benefits that you could expect, by taking GlucaFix?{" "}
             </p>
             {/* <p className="mt-4 max-w-2xl text-xl text-gray-700 lg:mx-auto text-justify">
               ReVision 2.0 brings together a powerful mix of herbs and
@@ -344,16 +339,13 @@ function Features() {
                 </div>
                 <div className="ml-4">
                   <dt className="text-lg leading-6 font-bold text-gray-900 ">
-                    Improve your vision.
+                    Enhanced metabolism.
                   </dt>
                   <dd className="mt-2 text-base text-gray-700 text-justify">
-                    Over time, as you eyesight degenerates, you stop seeing
-                    things clearly. You start facing issues like floaters,
-                    distorted images, flashes, etc. ReVision can help you
-                    restore your vision, so you can see things like you did
-                    before your eyes started to go bad. This supplement has
-                    nutrients that aid in bringing your eyesight back to its
-                    former healthy level..
+                    Similar to other weight loss supplements, GlucaFix help to
+                    enhance metabolic metabolism activities in the body. The
+                    increased metabolic activities will help burn fat quickly,
+                    and your weight will subsequently begin going down.
                   </dd>
                 </div>
               </div>
@@ -379,15 +371,14 @@ function Features() {
                 </div>
                 <div className="ml-4">
                   <dt className="text-lg leading-6 font-bold text-gray-900">
-                    Considerably reduce the risk of surgery
+                    Increased energy
                   </dt>
                   <dd className="mt-2 text-base text-gray-700 text-justify">
-                    Certain eye ailments like cataract and macular degeneration
-                    require surgery to be repaired. Fortunately, if you consume
-                    ReVision, you can combat these issues and circumvent the
-                    surgery if you don't want to undergo a procedure. This
-                    supplement depends on natural ingredients to help you
-                    restore your eyesight.
+                    Plus sized people need more energy to stay active, and
+                    GlucaFix works perfectly to replenish the energy levels in
+                    your body. That way, you can hit the gym and reduce your
+                    weight since you will feel more energetic throughout the
+                    day.
                   </dd>
                 </div>
               </div>
@@ -417,14 +408,11 @@ function Features() {
                     <strong>Cash-Back Guarantee</strong>
                   </dt>
                   <dd className="mt-2 text-base text-gray-700 text-justify">
-                    With so many products being promoted as the ultimate
-                    solution to brain and vision health, you might wonder what
-                    sets this one apart and if it will indeed work. The good
-                    thing with the <strong>ReVision™</strong> supplement is that
-                    it is backed with an airtight 60-day money-back guarantee.
-                    You don’t have to worry about whether it will work or not.
-                    If you purchase it and find that it’s a complete bunch of
-                    hogwash, just return it and ask for your money.
+                    Glucafix™ supplement is backed with a no question asked
+                    money-back guarantee. You don’t have to worry about whether
+                    it will work or not. If you purchase it and find that it’s a
+                    complete bunch of hogwash, just return it and ask for your
+                    money.
                   </dd>
                 </div>
               </div>
@@ -450,17 +438,12 @@ function Features() {
                 </div>
                 <div className="ml-4">
                   <dt className="text-lg leading-6 font-bold text-gray-900">
-                    Slightly reduce the UV effects on your eyes.
+                    reduce the food craving.
                   </dt>
                   <dd className="mt-2 text-base text-gray-700 text-justify">
-                    This supplement also acts as a natural sunblock, and filters
-                    out UV rays, and keeps your eyes safe. This reduces the need
-                    for sunglasses constantly. Usually, with degenerative eye
-                    conditions, going out in the sun is quite discomforting.
-                    This supplement helps your eyes grow stronger, and thus more
-                    resistant to UV rays and excess light. This doesn't mean
-                    that you should expose your eyes to unnecessary amounts of
-                    light.
+                    GlucaFix ingredients suppress appetite, burn fat, and
+                    optimize hormonal function without causing you any harmful
+                    effects.
                   </dd>
                 </div>
               </div>
@@ -486,13 +469,13 @@ function Features() {
                 </div>
                 <div className="ml-4">
                   <dt className="text-lg leading-6 font-bold text-gray-900">
-                    <strong>Revitalizes Vision</strong>
+                    <strong>Enhances and escalates the Ketosis</strong>
                   </dt>
                   <dd className="mt-2 text-base text-gray-700 text-justify">
-                    The supplement also helps to ramp up your vision by
-                    supplying you with important nutrients. You will realize
-                    instant changes in your eyesight. If you must wear glasses
-                    to see, you will find that it’s not necessary to do so.
+                    The supplement also helps to ramp up your weight loss
+                    journey by supplying you with important nutrients.ang get
+                    your body into a KETOSIS state faster. accelerating the fat
+                    burning
                   </dd>
                 </div>
               </div>
