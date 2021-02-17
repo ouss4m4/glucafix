@@ -1,6 +1,3 @@
-/* TSL:   https://5af82me9j94m-zcnmmwrufyo4w.hop.clickbank.net/ */
-/* VSL:  https://656afdqdch7jzzcpqnwdpeuk37.hop.clickbank.net/?cbpage=1 */
-
 import React from "react"
 import { Link } from "react-scroll"
 import FluidImg from "../Image/FluidIMG"
@@ -23,11 +20,6 @@ function Features() {
               "It's a brand new way of helping your liver to release more
               glucagon..."
             </p>
-            {/* <p className="mt-4 max-w-2xl text-xl text-gray-700 lg:mx-auto text-justify">
-              ReVision 2.0 brings together a powerful mix of herbs and
-              ingredients that have been carefully studied and work in synergy
-              to bring powerful health benefits to your brain and vision.
-            </p> */}
           </div>
 
           <div className="mt-10">
@@ -243,15 +235,15 @@ function Features() {
               good…but we trust those are minor annoyances.
             </p>
           </div>
-          <div className="max-w-xl mx-auto">
-            <FluidImg filename="Optic-ner" />
+          <div className="max-h-sm max-w-xs mx-auto">
+            <FluidImg filename="liver-ketones" />
             <p className="text-center text-gray-400 text-italic">
-              Optical Nerve{" "}
+              Liver and ketones{" "}
             </p>
           </div>
           <div className="text-center">
             <a
-              href="https://o06vt.bemobtrcks.com/click/1?ns=c%3D82cac172-dde3-47b1-b318-8d836d59d463..l%3D733a25dc-1df9-4349-8c2e-3da1eefca7e4..a%3D0..b%3D0"
+              href="#"
               className="inline-block px-4 py-4 mx-2 my-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700  cursor-pointer"
             >
               Order A Sample
@@ -269,11 +261,6 @@ function Features() {
             <p className="mt-2 text-2xl leading-8 font-bold tracking-tight text-gray-900 sm:text-2xl">
               What are the benefits that you could expect, by taking GlucaFix?{" "}
             </p>
-            {/* <p className="mt-4 max-w-2xl text-xl text-gray-700 lg:mx-auto text-justify">
-              ReVision 2.0 brings together a powerful mix of herbs and
-              ingredients that have been carefully studied and work in synergy
-              to bring powerful health benefits to your brain and vision.
-            </p> */}
           </div>
           <div className="mt-10">
             <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
@@ -488,7 +475,7 @@ function Features() {
                 id="benefits"
                 className="mt-2 text-3xl leading-8 font-bold tracking-tight text-gray-900 sm:text-4xl"
               >
-                ReVision 20
+                Advanced GlucaFix
               </h2>
             </Link>
           </div>
@@ -522,10 +509,11 @@ function Features() {
                 CONs
               </h2>
               <p>
-                You must order your <strong>ReVision™</strong> pills at least
-                one week before your current stock gets depleted. Otherwise, you
-                will find it challenging to maintain dosage. But this problem
-                can be solved by purchasing a complete six-month supply at once.
+                You must order your <strong>GlucaFix</strong> supplement at
+                least one week before your current supply gets depleted.
+                Otherwise, you will find it challenging to maintain dosage due
+                to the high demand. But this problem can be solved by purchasing
+                a complete six-month supply at once.
               </p>
             </div>
           </div>
@@ -534,13 +522,13 @@ function Features() {
             <h2 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
               Do Not Miss The Limited Discount
             </h2>
-            <a href="https://o06vt.bemobtrcks.com/click/1?ns=c%3D82cac172-dde3-47b1-b318-8d836d59d463..l%3D733a25dc-1df9-4349-8c2e-3da1eefca7e4..a%3D0..b%3D0">
-              <FluidImg filename="discount-list.png" />
+            <a href="#">
+              <FluidImg filename="discount.jpg" />
             </a>
 
             <div className="text-center">
               <a
-                href="https://o06vt.bemobtrcks.com/click/1?ns=c%3D82cac172-dde3-47b1-b318-8d836d59d463..l%3D733a25dc-1df9-4349-8c2e-3da1eefca7e4..a%3D0..b%3D0"
+                href="#"
                 className="inline-block px-4 py-4 mx-2 my-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700  cursor-pointer"
               >
                 Get The Discount Here
@@ -553,15 +541,25 @@ function Features() {
             </h2>
 
             <h2 className="mt-2 text-2xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-2xl">
+              Why GlucaFIx Is Different?
+            </h2>
+
+            <p className="mt-2 text-base text-gray-700 text-justify max-w-xl">
+              Ketosis is the state where your body is actually burning fat for
+              energy instead of carbs. Ketosis is extremely hard to obtain on
+              your own and takes weeks to accomplish. GlucaFix actually helps
+              your body achieve ketosis fast and helps you burn fat for energy
+              instead of carbs!
+            </p>
+            <h2 className="mt-2 text-2xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-2xl">
               How long does it take to work?
             </h2>
 
             <p className="mt-2 text-base text-gray-700 text-justify max-w-xl">
-              This supplement has fast-acting and quick-absorbing ingredients.
-              Hence, it should start showing results quickly provided you follow
-              dosage instructions and adhere to other conditions. In any case,
-              there's a 60-day money-back guarantee, so in case you aren't happy
-              after 2 months have passed, you can claim a refund.
+              This supplement has natural ingredients making it absorbed quickly
+              in the body. Hence, it should start showing results quickly
+              provided you follow dosage instructions and adhere to other
+              conditions. In any case, there's a 60-day money-back guarantee.
             </p>
             <h2 className="mt-2 text-2xl leading-8 font-bold tracking-tight text-gray-900 sm:text-2xl">
               Where can i buy this supplement?
@@ -569,22 +567,20 @@ function Features() {
 
             <p className="mt-2 text-base text-gray-700 text-justify max-w-xl">
               You can buy this supplement from the official website. The
-              supplement is available in quantities of 1 bottle of ReVision for
-              $69 + $7.95 in shipping and handling, 3 bottles of ReVision for
-              $177 with free shipping and handling, and finally, 6 bottles of
-              ReVision: $294 with free shipping and handling.
+              supplement is available in quantities of 1 bottle as a sample, 3
+              bottles with free US shipping and handling, and finally, and the
+              Best Value package of 6 bottles that gives best value.
             </p>
 
             <h2 className="mt-2 text-2xl leading-8 font-bold tracking-tight text-gray-900 sm:text-2xl">
-              ReVision Supplements Side Effects and Dosage
+              GlucaFix Supplements Side Effects and Dosage
             </h2>
 
             <p className="mt-2 text-base text-gray-700 text-justify max-w-xl">
-              All you need is just 2 small capsules of ReVision every morning
-              right after breakfast, with half a glass of water. The ingredients
-              are quickly absorbed by the body, and you feel healthy physically
-              and mentally. Containing mostly natural ingredients, this
-              supplement doesn't have side effects.
+              All you need is simply take GlucaFix with a glass of water 1 hour
+              before dinner.. The ingredients are quickly absorbed by the body,
+              and you feel healthy physically and mentally. Containing mostly
+              natural ingredients, this supplement doesn't have side effects.
             </p>
             <div className="lg:text-center md:text-center">
               <h2
@@ -593,8 +589,8 @@ function Features() {
               >
                 Watch The Official Video For More Details
               </h2>
-              <a href="https://656afdqdch7jzzcpqnwdpeuk37.hop.clickbank.net/?cbpage=1">
-                <FluidImg filename="video.png" />
+              <a href="#">
+                <FluidImg filename="original-video.JPG" />
               </a>
             </div>
             <div className="lg:text-center md:text-center">
@@ -619,7 +615,7 @@ function Features() {
               </p>
               <div className="text-center">
                 <a
-                  href="https://o06vt.bemobtrcks.com/click/1?ns=c%3D82cac172-dde3-47b1-b318-8d836d59d463..l%3D733a25dc-1df9-4349-8c2e-3da1eefca7e4..a%3D0..b%3D0"
+                  href="#"
                   className="inline-block px-4 py-4 mx-2 my-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700  cursor-pointer"
                 >
                   Visit Official WebSite

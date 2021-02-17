@@ -1,6 +1,6 @@
 import React from "react"
 import FluidImg from "../Image/FluidIMG"
-/* https://www.benzinga.com/pressreleases/20/11/g18331131/revision-supplement-reviews-eye-supplement-revision-review-by-expert-with-facts-and-proofs */
+
 function HowItWork() {
   return (
     <section id="howitwork" className="max-w-3xl mx-auto">

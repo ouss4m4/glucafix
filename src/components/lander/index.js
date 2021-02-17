@@ -24,7 +24,7 @@ function Lander() {
               <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0 ">
                 <div className="flex items-center w-full md:w-auto ">
                   <a
-                    href="https://o06vt.bemobtrcks.com/click/1?ns=c%3D82cac172-dde3-47b1-b318-8d836d59d463..l%3D733a25dc-1df9-4349-8c2e-3da1eefca7e4..a%3D0..b%3D0"
+                    href="#"
                     className="text-blue-700 "
                   >
                     <span className="sr-only">Logo</span>
@@ -61,8 +61,8 @@ function Lander() {
                 </span>
               </h2>
               <p className="mt-3 text-base text-gray-900 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                Product Intro, How It Works, Ingredients, Side Effects and
-                Benefits! Case study.
+                Japan's Legendary Doctor Unlocks Fastest Way to Burn Fat: ”This
+                Liver-Hormone Burns Fat 20 Hours a Day”
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">
@@ -89,10 +89,10 @@ function Lander() {
         </div>
       </div>
       <div
-        className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2"
+        className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 "
         style={{ height: "100%" }}
       >
-        <FluidIMG filename="hero.png" />
+        <FluidIMG filename="glucafix-hero.jpg" />
       </div>
     </div>
   )

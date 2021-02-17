@@ -70,7 +70,7 @@ function SEO({ description, lang, meta, title }) {
         },
       ].concat(meta)}
     >
-      <script>
+      {/*  <script>
         {`function bemobCb(params) {
           var t = params.trackingDomain+'/click/';
           var re = new RegExp(t+'?(\\d*)');
@@ -91,7 +91,7 @@ function SEO({ description, lang, meta, title }) {
           src="https://o06vt.bemobtrcks.com/landing/82cac172-dde3-47b1-b318-8d836d59d463?rule=1&path=1&landing=1"
           alt=""
         />`}
-      </noscript>
+      </noscript> */}
     </Helmet>
   )
 }
