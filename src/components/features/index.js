@@ -523,7 +523,7 @@ function Features() {
               Do Not Miss The Limited Discount
             </h2>
             <a href="https://www.wingcards.com/2676DXDQ/QBLQ9F3/">
-              <FluidImg filename="discount.jpg" />
+              <FluidImg filename="discount" />
             </a>
 
             <div className="text-center">
