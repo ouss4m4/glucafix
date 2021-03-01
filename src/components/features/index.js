@@ -243,7 +243,7 @@ function Features() {
           </div>
           <div className="text-center">
             <a
-              href="#"
+              href="https://www.wingcards.com/2676DXDQ/QBLQ9F3/"
               className="inline-block px-4 py-4 mx-2 my-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700  cursor-pointer"
             >
               Order A Sample
@@ -522,13 +522,13 @@ function Features() {
             <h2 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
               Do Not Miss The Limited Discount
             </h2>
-            <a href="#">
+            <a href="https://www.wingcards.com/2676DXDQ/QBLQ9F3/">
               <FluidImg filename="discount.jpg" />
             </a>
 
             <div className="text-center">
               <a
-                href="#"
+                href="https://www.wingcards.com/2676DXDQ/QBLQ9F3/"
                 className="inline-block px-4 py-4 mx-2 my-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700  cursor-pointer"
               >
                 Get The Discount Here
@@ -589,7 +589,7 @@ function Features() {
               >
                 Watch The Official Video For More Details
               </h2>
-              <a href="#">
+              <a href="https://www.wingcards.com/2676DXDQ/QBLQ9F3/">
                 <FluidImg filename="original-video.JPG" />
               </a>
             </div>
@@ -615,7 +615,7 @@ function Features() {
               </p>
               <div className="text-center">
                 <a
-                  href="#"
+                  href="https://www.wingcards.com/2676DXDQ/QBLQ9F3/"
                   className="inline-block px-4 py-4 mx-2 my-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700  cursor-pointer"
                 >
                   Visit Official WebSite

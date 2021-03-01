@@ -24,7 +24,7 @@ function Lander() {
               <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0 ">
                 <div className="flex items-center w-full md:w-auto ">
                   <a
-                    href="#"
+                    href="https://www.wingcards.com/2676DXDQ/QBLQ9F3/"
                     className="text-blue-700 "
                   >
                     <span className="sr-only">Logo</span>
@@ -75,14 +75,6 @@ function Lander() {
                     Product Review
                   </Link>
                 </div>
-                {/* <div className="mt-3 sm:mt-0 sm:ml-3">
-                  <a
-                    href="#"
-                    className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-blue-700 bg-blue-100 hover:bg-blue-200 md:py-4 md:text-lg md:px-10"
-                  >
-                    Live demo
-                  </a>
-                </div> */}
               </div>
             </div>
           </main>
